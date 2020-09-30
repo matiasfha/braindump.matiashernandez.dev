@@ -2,7 +2,7 @@ baseURL = "https://braindump.matiashernandez.dev/"
 languageCode = "es-es"
 title = "Mis notas - Matias Hernández"
 theme = "cortex"
-
+googleAnalytics = "UA-45569809-3"
 [params]
 email = "hola@matiashernandez.dev"
 footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo. Thanks to <a href=\"https://github.com/jethrokuan/braindump\">Jethro Kuan</a>"
