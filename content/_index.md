@@ -6,7 +6,7 @@ type = "index"
 +++
 
 
-## Hola! {#hola} :wave:
+## Hola! :wave:
 
 Soy [Matías](https://matiashernandez.dev). Lo que estás viendo ahora son las notas que trato de
 tomar a diario del contenido que consumo o simplemente de mis ideas, draft de mis posts y episodios
