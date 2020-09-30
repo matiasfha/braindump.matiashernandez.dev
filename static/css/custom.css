@@ -1,0 +1,34 @@
+header {
+  background: #555;
+}
+
+.site-title {
+  color: #ddd;
+}
+
+body {
+  background: #444;
+}
+
+.page {
+  background: #444;
+  color: #eee;
+}
+
+code {
+  background: #aaa;
+  color: #333;
+  border: 1px solid #bbb;
+}
+
+.page .highlight code {
+  border: none;
+  background: inherit;
+  color: inherit;
+}
+
+footer {
+  background: #555;
+  color: #ccc;
+  border-top: 1px #ccc solid;
+}

@@ -6,7 +6,7 @@ type = "index"
 +++
 
 
-## Hola! :wave:
+## Hola!
 
 Soy [Matías](https://matiashernandez.dev). Lo que estás viendo ahora son las notas que trato de
 tomar a diario del contenido que consumo o simplemente de mis ideas, draft de mis posts y episodios
@@ -28,6 +28,6 @@ en nota, o revisar algunas de las que podría considerar destacadas
 - [Todas las notas](posts/)
 
 
-Este itio esta construido con [hugo](https://gohugo.io) utilizando el theme [cortex](https://github.com/jethrokuan/cortex) de [Jethro Kuan](https://github.com/jethrokuan)
+Este sitio esta construido con [hugo](https://gohugo.io) utilizando el theme [cortex](https://github.com/jethrokuan/cortex) de [Jethro Kuan](https://github.com/jethrokuan)
 
 

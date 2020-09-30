@@ -33,5 +33,5 @@ footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo. Thanks to <a h
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "github"
+    style = "monokai"
     tabWidth = 4
