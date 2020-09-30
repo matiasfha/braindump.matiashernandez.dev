@@ -26,3 +26,8 @@ en nota, o revisar algunas de las que podría considerar destacadas
 - [How to take smart notes](posts/20200925021631-how_to_take_smart_notes)
 - [Programing Languages](posts/20200927000334-programing_languages)
 - [Todas las notas](posts/)
+
+
+Este itio esta construido con [hugo](https://gohugo.io) utilizando el theme [cortex](https://github.com/jethrokuan/cortex) de [Jethro Kuan](https://github.com/jethrokuan)
+
+
